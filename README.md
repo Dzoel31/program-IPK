@@ -4,7 +4,8 @@ Program ini dapat digunakan untuk menghitung nilai IP (Indeks Prestasi) per seme
 
 Fitur - fitur yang dimiliki oleh program ini baru mencakup :
 
-1. Penambahan Data
-2. Melihat Data
+1. Penambahan data
+2. Melihat data
+3. Melihat grafik nilai IP tiap semester
 
 Program ini masih perlu dikembangkan agar lebih memudahkan dalam mengelola nilai.
